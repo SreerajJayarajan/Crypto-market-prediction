@@ -43,7 +43,7 @@ This repository contains Jupyter Notebooks for predicting cryptocurrency prices 
     - Required dependencies and libraries
 
 7. **Contributors**
-    - List of contributors and their contributions
+    - Sreeraj Jayarajan
 
 ## Usage
 
